@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PastorDave1964
-- 👀 I’m interested in model railway automation
-- 🌱 I’m currently learning Python. 
+- 👀 I’m interested in model railway automation with DCC control.
+- 🌱 I’m currently re-learning my old programming skills. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
